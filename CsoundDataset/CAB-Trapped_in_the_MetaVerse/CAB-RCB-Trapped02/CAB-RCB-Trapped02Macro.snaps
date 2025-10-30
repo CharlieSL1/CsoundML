@@ -1,0 +1,36 @@
+{
+    "foo1": {
+        "form": 0.0,
+        "trigger": 0.0,
+        "masterLvl": 0.46000000834465027,
+        "dur": 4.61899995803833,
+        "amp": 0.5,
+        "note": 20.88800048828125,
+        "rndNote": 1.8050003051757813,
+        "shakeRate": 6.0,
+        "numHarmonics": 12.440999984741211,
+        "sweepRate": 0.30000001192092896,
+        "rvbSend": 0.19500000774860382,
+        "rvbPan": 0.8999999761581421,
+        "filebutton32": 0.0,
+        "filebutton33": 0.0,
+        "cabbageJSONData": ""
+    },
+    "foo2": {
+        "form": 0.0,
+        "trigger": 0.0,
+        "masterLvl": 0.46000000834465027,
+        "dur": 4.61899995803833,
+        "amp": 0.5240000486373901,
+        "note": 75.12300109863281,
+        "rndNote": -0.34799981117248535,
+        "shakeRate": 10.863000869750977,
+        "numHarmonics": 12.440999984741211,
+        "sweepRate": 0.30000001192092896,
+        "rvbSend": 0.6980000138282776,
+        "rvbPan": 0.8999999761581421,
+        "filebutton32": 0.0,
+        "filebutton33": 0.0,
+        "cabbageJSONData": ""
+    }
+}
